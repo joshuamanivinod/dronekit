@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+
 #python hello.py --connect udp:127.0.0.1:14550
 #python hello.py --connect tcp:127.0.0.1:5760
 #mavproxy --master tcp:127.0.0.1:5760 --out 127.0.0.1:14550
